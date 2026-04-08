@@ -37,13 +37,28 @@ Two end-to-end data science projects built in R, covering the full pipeline from
 ### Visualizations & Results
 
 <p align="center">
-  <img src="Final/images/2.jpg" width="400" alt="Top 20 Most Frequent Words">
-  <img src="Final/images/3.jpg" width="400" alt="Total Word Count per Category">
+  <img src="Final/images/1.jpg" width="400" alt="Result 1">
+  <img src="Final/images/2.jpg" width="400" alt="Result 2">
 </p>
 
 <p align="center">
-  <img src="Final/images/9.jpg" width="400" alt="Sentiment Analysis by Category">
-  <img src="Final/images/10.jpg" width="400" alt="Topic Modeling Terms">
+  <img src="Final/images/3.jpg" width="400" alt="Result 3">
+  <img src="Final/images/4.jpg" width="400" alt="Result 4">
+</p>
+
+<p align="center">
+  <img src="Final/images/5.jpg" width="400" alt="Result 5">
+  <img src="Final/images/6.jpg" width="400" alt="Result 6">
+</p>
+
+<p align="center">
+  <img src="Final/images/7.jpg" width="400" alt="Result 7">
+  <img src="Final/images/8.jpg" width="400" alt="Result 8">
+</p>
+
+<p align="center">
+  <img src="Final/images/9.jpg" width="400" alt="Result 9">
+  <img src="Final/images/10.jpg" width="400" alt="Result 10">
 </p>
 
 **Dataset:** 250 BBC News articles (`bbc_news_final.csv`)  
@@ -52,9 +67,11 @@ Two end-to-end data science projects built in R, covering the full pipeline from
 ---
 
 ## 🗂 Structure
+
+```text
 ├── Mid/
-│   ├── G01-mid-project.r         # Full analysis script
-│   ├── titanic.csv               # Combined dataset
+│   ├── G01-mid-project.r                   # Full analysis script
+│   ├── titanic.csv                         # Combined dataset
 │   └── G01-mid-project-report.pdf
 ├── Final/
 │   ├── G01 final-project(Text Mining).R    # BBC scraper
